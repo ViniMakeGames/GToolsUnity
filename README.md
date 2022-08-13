@@ -1,2 +1,2 @@
 # GToolsUnity
- A library of tools for Unity
+ A library of game dev tools for Unity
